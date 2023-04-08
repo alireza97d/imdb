@@ -16,3 +16,4 @@ module.exports = {
   },
   plugins: [],
 }
+/** @type {(tailwindConfig: object) => object} */
